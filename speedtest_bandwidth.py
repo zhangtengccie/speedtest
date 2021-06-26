@@ -26,4 +26,5 @@ dr = s.download()
 up = s.upload()
 print(f'下载速度：{dr /1024 /1024:.2f} Mbits')
 print(f'上次速度：{up /1024 /1024:.2f} Mbits')
+print('welcome to cisco live')
 
